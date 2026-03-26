@@ -1,11 +1,84 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Portfolio</title>
+    <title>Revathi Portfolio</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background: #f4f4f4;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background: white;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: white;
+        }
+    </style>
 </head>
+
 <body>
-  <h1>Hello, I am Revathi</h1>
+
+<header>
+    <h1>Revathi S</h1>
+    <p>Full Stack Developer (Fresher)</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        My professional objective is to be a successful employee in a challenging 
+        and motivating organization where I can use my skills for growth.
+    </p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>VLB Janaki Ammal Arts and Science College</p>
+    <p>Bachelor Degree</p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript (Basic)</li>
+        <li>Python (Basic)</li>
+        <li>Git & GitHub</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <p>Portfolio Website</p>
+    <p>Login Page (HTML & CSS)</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Phone: 8524847628</p>
+    <p>Email: revathisundharamg04@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Revathi</p>
+</footer>
+
 </body>
 </html>
